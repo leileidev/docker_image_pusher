@@ -12,4 +12,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nacos/nacos-server:v2.2.3
 #snowdreamtech/frps
-headscale/headscale
+#headscale/headscale
+nouchka/sqlite3
