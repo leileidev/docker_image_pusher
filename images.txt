@@ -13,4 +13,5 @@
 #nacos/nacos-server:v2.2.3
 #snowdreamtech/frps
 #headscale/headscale
-nouchka/sqlite3
+#nouchka/sqlite3
+ifargle/headscale-webui:v0.6.2
