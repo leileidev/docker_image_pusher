@@ -14,4 +14,5 @@
 #snowdreamtech/frps
 #headscale/headscale
 #nouchka/sqlite3
-ifargle/headscale-webui:v0.6.2
+#ifargle/headscale-webui:v0.6.2
+fredliang/derper:v1.82.5
