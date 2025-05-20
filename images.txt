@@ -17,4 +17,5 @@
 #ifargle/headscale-webui:v0.6.2
 #fredliang/derper:v1.82.5
 #alpine:latest
-tailscale/tailscale
+#tailscale/tailscale
+redis:6.2.6
