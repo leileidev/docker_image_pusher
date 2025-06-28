@@ -18,4 +18,5 @@
 #fredliang/derper:v1.82.5
 #alpine:latest
 #tailscale/tailscale
-redis:6.2.6
+#redis:6.2.6
+ghcr.io/beidoums/beidou-server-all:v1.9
