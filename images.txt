@@ -20,7 +20,5 @@
 #tailscale/tailscale
 #redis:6.2.6
 #ghcr.io/beidoums/beidou-server-all:v1.9
-#seafileltd/seafile-mc:12.0-latest
-seafileltd/seafile-mc:11.0-latest
 #memcached:1.6.18
-#filerun/filerun:8.1
+filebrowser/filebrowser:latest
