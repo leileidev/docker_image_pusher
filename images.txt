@@ -21,4 +21,5 @@
 #redis:6.2.6
 #ghcr.io/beidoums/beidou-server-all:v1.9
 #memcached:1.6.18
-filebrowser/filebrowser:latest
+#filebrowser/filebrowser:latest
+linuxserver/qbittorrent:5.1.2
