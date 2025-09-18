@@ -22,4 +22,5 @@
 #ghcr.io/beidoums/beidou-server-all:v1.9
 #memcached:1.6.18
 #filebrowser/filebrowser:latest
-linuxserver/qbittorrent:5.1.2
+#linuxserver/qbittorrent:5.1.2
+zerotier/zerotier:1.14.2
