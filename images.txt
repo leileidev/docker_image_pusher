@@ -23,4 +23,5 @@
 #memcached:1.6.18
 #filebrowser/filebrowser:latest
 #linuxserver/qbittorrent:5.1.2
-zerotier/zerotier:1.14.2
+#zerotier/zerotier:1.14.2
+snowdreamtech/frpc
