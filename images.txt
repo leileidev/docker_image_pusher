@@ -1,5 +1,5 @@
 #weaver/weweb:latest
-#rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest
 #nginx
 #nacos/nacos-server:v2.3.2
 #mysql:8.0.31
@@ -24,4 +24,4 @@
 #filebrowser/filebrowser:latest
 #linuxserver/qbittorrent:5.1.2
 #zerotier/zerotier:1.14.2
-snowdreamtech/frpc
+#snowdreamtech/frpc
